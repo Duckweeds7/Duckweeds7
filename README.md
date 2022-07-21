@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Duckweeds7/Duckweeds7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![My GitHub](https://github-readme-stats.vercel.app/api?username=Duckweeds7&count_private=true&show_icons=true&theme=vue&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duckweeds7&theme=vue&count_private=true&show_icons=true&layout=compact)
